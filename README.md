@@ -1,4 +1,5 @@
-#Curso Android-I - Alura
+# Curso Android-I - Alura
 
-Meu Primeiro projeto em Android 
 O app gera uma lista de agenda. 
+Projeto em Android Studio
+
